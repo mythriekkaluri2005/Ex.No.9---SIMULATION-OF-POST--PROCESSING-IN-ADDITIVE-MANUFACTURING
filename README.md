@@ -45,10 +45,13 @@
 ![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
-## Output:
+## Output:![image](https://github.com/mythriekkaluri2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231422/631850e3-bca2-44c3-96e9-f14fc92efdb9)
+![image](https://github.com/mythriekkaluri2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231422/5c9b7a82-5a37-454b-9b5a-c26eaab66322)
+![image](https://github.com/mythriekkaluri2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231422/8bbca42e-3fe8-4b84-9231-f0d6648f66f8)
 
-### Name:
-### Register Number:
+
+### Name:Ekkaluri Mythri
+### Register Number:23003922
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
